@@ -418,7 +418,7 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a7G4Yz6.png" group-title="Dipu Sports", SPORT", EDGE SPORTS
 http://edgesports-row-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Dipu Sports" Extrerme Sports
+#EXTINF:-1 group-title="Dipu Sports", Extrerme Sports
 http://58.65.194.14:1935/live/Extreme%20Sports%20HD.stream/playlist.m3u8
 #EXTINF:-1 group-title="Dipu Sports", Dubai Sports 1 FHD
 http://dmitnthfr.cdn.mangomolo.com:80/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
@@ -655,11 +655,11 @@ http://abp-i.akamaihd.net/hls/live/765530/abpananda/master_1564.m3u8
 http://tv24bangla.logosys.in:8080/hls/tv24bangla.m3u8
 #EXTINF:-1 group-title="BANGLA INDIAN-DP", Ekhon Kolkata [IN]
 http://cdn.live5.in:1935/live/sun6/chunklist_w1143835070.m3u8
-#EXTINF:-1 group-title="PAK CHANNELS-DP" Geo Tv
+#EXTINF:-1 group-title="PAK CHANNELS-DP", Geo Tv
 http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PAK CHANNELS-DP", Hum TV
 http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="PAK CHANNELS-DP" HUM NEWS
+#EXTINF:-1 group-title="PAK CHANNELS-DP", HUM NEWS
 http://221.120.204.4/HUM-NEWS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PAK CHANNELS-DP", 92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
