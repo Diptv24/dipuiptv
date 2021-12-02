@@ -32,43 +32,43 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla", BTV
 http://103.106.2.149:13456/btv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="BBTV CTG
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="DipuIPTV-BD", BTV CTG
 http://103.106.2.149:13456/btv_ctg.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="Bangla", BTV World
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="DipuIPTV-BD", BTV World
 http://103.106.2.149:13456/btv_world.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla", Boishakhi TV
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla", NTV
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="DipuIPTV-BD", NTV
 http://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Bangla", ATN News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="DipuIPTV-BD", ATN News
 https://rhridoy136.shortcm.li/atnnews.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Bangla", gaan bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="DipuIPTV-BD", gaan bangla
 http://rhridoy136.shortcm.li/bijoytv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla", Duronto TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="DipuIPTV-BD", Duronto TV
 http://89.187.185.89:3232/ban-duronto/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Bangla", Peace Tv Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="DipuIPTV-BD", Peace Tv Bangla
 http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="Without category", RTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="DipuIPTV-BD", RTV
 http://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WmLw772.png" group-title="Without category", DBC News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WmLw772.png" group-title="DipuIPTV-BD", DBC News
 http://103.159.4.38:5868/BD-BANGLA-13/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="Without category", jamuna news
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="DipuIPTV-BD", jamuna news
 http://103.159.4.38:5868/BD-BANGLA-3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg" group-title="Without category", iTv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg" group-title="DipuIPTV-BD", iTv
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 ,Madani TV
 http://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/madnitvbangla/madnibangla_1080p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt3EQqG.jpg" group-title="Without category", KTV Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt3EQqG.jpg" group-title="DipuIPTV-BD", KTV Bangla
 http://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:-1 ,Channel S (720p)
 http://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cnn-bangla-tv-9082.jpg" group-title="Without category", CNN Bangla
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cnn-bangla-tv-9082.jpg" group-title="DipuIPTV-BD", CNN Bangla
 http://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cnn-bangla-tv-9082.jpg" group-title="Without category", CNN Bangla
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cnn-bangla-tv-9082.jpg" group-title="DipuIPTV-BD", CNN Bangla
 http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
 #EXTINF:-1 ,MAQ TV
 http://str24.l9574.com/517.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7HplreU.jpg" group-title="Without category", Nandan TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7HplreU.jpg" group-title="DipuIPTV-BD", Nandan TV
 http://nandansyst.com/hls/nandan.m3u8
 #EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",BTV
 http://103.106.2.149:13456/btv.m3u8
@@ -661,21 +661,21 @@ http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
 http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PAK CHANNELS-DP" HUM NEWS
 http://221.120.204.4/HUM-NEWS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="PAK CHANNELS-DP" 92 News
+#EXTINF:-1 group-title="PAK CHANNELS-DP", 92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:-1 group-title="PAK CHANNELS-DP" PTV WORLD
+#EXTINF:-1 group-title="PAK CHANNELS-DP", PTV WORLD
 https://live.ptv.com.pk/live/ptvworld/chunklist_w1311361788.m3u8
-#EXTINF:-1 group-title="PAK CHANNELS-DP" Dunya News
+#EXTINF:-1 group-title="PAK CHANNELS-DP", Dunya News
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8
-#EXTINF:-1 group-title="PAK CHANNELS-DP" KEY 2
+#EXTINF:-1 group-title="PAK CHANNELS-DP", KEY 2
 http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
-#EXTINF:-1 group-title="PAK CHANNELS-DP"Khyber tv
+#EXTINF:-1 group-title="PAK CHANNELS-DP", Khyber tv
 http://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/index_150_av-p.m3u8
-#EXTINF:-1 group-title="PAK CHANNELS-DP" DISCOVER PAK
+#EXTINF:-1 group-title="PAK CHANNELS-DP", DISCOVER PAK
 http://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream2/chunks.m3u8
-#EXTINF:-1 group-title="PAK CHANNELS-DP" NEWS 24 PAK
+#EXTINF:-1 group-title="PAK CHANNELS-DP", NEWS 24 PAK
 http://221.120.204.4/24-NEWS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="PAK CHANNELS-DP"ARY QURAN
+#EXTINF:-1 group-title="PAK CHANNELS-DP", ARY QURAN
 http://stream.arylive.com/aryqtv/myStream/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="PAK CHANNELS-DP"LIVE MAKKA
+#EXTINF:-1 group-title="PAK CHANNELS-DP", LIVE MAKKA
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
