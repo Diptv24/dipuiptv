@@ -269,9 +269,9 @@ http://ukipptv.ddns.net/731.stream/index.m3u8
 http://stream.arylive.com:80/aryqtv/myStream/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="UKIPPTV SERVER", A-PLUS
 http://ukipptv.ddns.net/623.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER"GEO KAHINI
+#EXTINF:-1 group-title="UKIPPTV SERVER", GEO KAHINI
 http://ukipptv.ddns.net/603.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER",HUM TV HD
+#EXTINF:-1 group-title="UKIPPTV SERVER", HUM TV HD
 http://ukipptv.ddns.net/611.stream/index.m3u8
 #EXTINF:-1 group-title="UKIPPTV SERVER", ARY NEWS
 http://ukipptv.ddns.net/615.stream/index.m3u8
@@ -347,7 +347,7 @@ http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 http://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
 #EXTINF:-1 group-title="Movies-DIPU PERSONAL", MOVIE SPHARE
 http://moviesphere-roku.amagi.tv/playlist720lp.m3u8
-#EXTINF:-1 group-title="Movies-DIPU PERSONAL", Star Gold 2 4K
+#EXTINF:-1 group-title="Movies-DIPU PERSONAL", Star Gold 2 
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYjW-i3-Y7NykHYE8VNTnYE/m3u8
 
 #EXTINF:-1 group-title="INT NEWS-DP",Sky News HD
@@ -420,11 +420,11 @@ http://edgesports-row-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Dipu Sports" Extrerme Sports
 http://58.65.194.14:1935/live/Extreme%20Sports%20HD.stream/playlist.m3u8
-#EXTINF:-1 group-title="Dipu Sports" Dubai Sports 1 FHD
+#EXTINF:-1 group-title="Dipu Sports", Dubai Sports 1 FHD
 http://dmitnthfr.cdn.mangomolo.com:80/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Dipu Sports" Dubai Sports 2 FHD
+#EXTINF:-1 group-title="Dipu Sports", Dubai Sports 2 FHD
 http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Dipu Sports" Dubai Sports 3 FHD
+#EXTINF:-1 group-title="Dipu Sports", Dubai Sports 3 FHD
 http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/An3xSFe.png" group-title="Dipu Sports", FREE SPORTS
@@ -565,9 +565,9 @@ http://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 http://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 #EXTINF:-1 group-title="Movies-DIPU PERSONAL", BFlix Movies
 http://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:-1 group-title="Movies-DIPU PERSONAL", Dhinchaak (576p) [Not 24/7]
+#EXTINF:-1 group-title="Movies-DIPU PERSONAL", Dhinchaak
 http://14.199.164.20:4001/play/a0o5/index.m3u8
-#EXTINF:-1 group-title="Movies-DIPU PERSONAL", Dhinchaak 2 (576p) [Not 24/7]
+#EXTINF:-1 group-title="Movies-DIPU PERSONAL", Dhinchaak 2 
 http://14.199.164.20:4001/play/a0tm/index.m3u8
 #EXTINF:-1 ,Jonak Tv
 http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
@@ -583,7 +583,7 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist_w193628251
 http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist_w1310036100.m3u8
 #EXTINF:-1 group-title="Movies-DIPU PERSONAL", FOX ACTION
 http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist_w83033785.m3u8
-#EXTINF:-1 group-title="Movies-DIPU PERSONAL", K-PLUS (MLY)
+#EXTINF:-1 group-title="Movies-DIPU PERSONAL", K-PLUS 
 http://45.126.83.51/uq2663/h/h08/01.m3u8
 #EXTINF:-1 group-title="Movies-DIPU PERSONAL", SONY ONE
 http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
@@ -623,9 +623,9 @@ http://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
 #EXTINF:-1 group-title="KIDS-DIPU PERSONAL", RETRO CR
 http://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
-#EXTINF:-1 group-title="KIDS-DIPU PERSONAL", Toon Max TV (Opt-1)
+#EXTINF:-1 group-title="KIDS-DIPU PERSONAL", Toon Max TV
 http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
-#EXTINF:-1 group-title="KIDS-DIPU PERSONAL", Aniplus (Opt-1)
+#EXTINF:-1 group-title="KIDS-DIPU PERSONAL", Aniplus 
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 #EXTINF:-1 group-title="KIDS-DIPU PERSONAL", BBCEARTH
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
