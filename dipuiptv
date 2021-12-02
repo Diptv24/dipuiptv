@@ -1,97 +1,75 @@
 #EXTM3U
-#EXTINF:-1 group-title="UKIPPTV SERVER", Zee Bolywood
-http://ukipptv.ddns.net/701.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", ZEE ANMAL CINEMA
-http://ukipptv.ddns.net/722.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", ZEE Action
-http://ukipptv.ddns.net/728.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", UTV HD
-http://ukipptv.ddns.net/723.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", COLORS CINEPLEX HD
-http://ukipptv.ddns.net/735.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", STAR PLUS HD HD
-http://ukipptv.ddns.net/607.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", ZEE TV HD
-http://ukipptv.ddns.net/606.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", 9XM
-http://ukipptv.ddns.net/522.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", B4U MUSIC
-http://ukipptv.ddns.net/733.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", STAR SPORTS 1 HD
-http://ukipptv.ddns.net/710.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", STAR SPORTS 1 HD HINDI
-http://ukipptv.ddns.net/724.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", STAR SPORTS 2 HD
-http://ukipptv.ddns.net/715.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", STAR SPORTS 3 
-http://ukipptv.ddns.net/732.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", STAR SPORTS SELECT 1 HD
-http://ukipptv.ddns.net/737.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", SONY SIX HD
-http://ukipptv.ddns.net/740.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", SONY TEN 1 HD
-http://ukipptv.ddns.net/726.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", SONY TEN 1 HD
-http://ukipptv.ddns.net/711.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", SONY TEN 2 HD
-http://ukipptv.ddns.net/712.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER",VSONY TEN 3 HD
-http://ukipptv.ddns.net/713.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", ASTRO CRICKET HD
-http://ukipptv.ddns.net/720.stream/index.m3u8
- #EXTINF:-1 group-title="UKIPPTV SERVER", GEO SUPER
-http://ukipptv.ddns.net/725.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", WILLOW hd
-http://ukipptv.ddns.net/731.stream/index.m3u8
-#EXTINF:-1 group-title="Nafis TV", ARY Q TV
-http://stream.arylive.com:80/aryqtv/myStream/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", A-PLUS
-http://ukipptv.ddns.net/623.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER"GEO KAHINI
-http://ukipptv.ddns.net/603.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER",HUM TV HD
-http://ukipptv.ddns.net/611.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", ARY NEWS
-http://ukipptv.ddns.net/615.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", GEO NEWS
-http://ukipptv.ddns.net/616.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", GE TEZZ
-http://ukipptv.ddns.net/617.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", DUNEYA NEWS
-http://ukipptv.ddns.net/619.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", SAAMA NEWS
-http://ukipptv.ddns.net/641.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", EXPRESS NEWS
-http://ukipptv.ddns.net/642.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", EXPRESS ENTERTEMINET
-http://ukipptv.ddns.net/643.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", AAJ NEWS
-http://ukipptv.ddns.net/645.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", PTV NEWS
-http://ukipptv.ddns.net/647.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", PTV SPORTS
-http://ukipptv.ddns.net/649.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", HUM TV
-http://ukipptv.ddns.net/691.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", HUM SITHARAY
-http://ukipptv.ddns.net/692.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", MAKKA TV
-http://ukipptv.ddns.net/694.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", TIMES URDU
-http://ukipptv.ddns.net/511.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", ITV
-http://ukipptv.ddns.net/512.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", DISNEY XD
-http://ukipptv.ddns.net/10.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", USA
-http://ukipptv.ddns.net/11.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", DISNEY TV
-http://ukipptv.ddns.net/14.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", CH-1
-http://ukipptv.ddns.net/16.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", CH-2
-http://ukipptv.ddns.net/15.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", CC
-http://ukipptv.ddns.net/22.stream/index.m3u8
-#EXTINF:-1 group-title="UKIPPTV SERVER", CNN
-http://ukipptv.ddns.net/20.stream/index.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",Jamuna TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",Channel 24
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",News 24
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",Somoy News
+https://last.gcdn.co/IND418/index.m3u8
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",DBC News
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",Maasranga
+https://tempx.jagobd.com:441/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mass.stream/live-orgin/mass.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",Independent
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",Channel I
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",NTV
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",RTV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",Boishakhi
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",My TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",Ekushey TV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",Mohona Tv
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",SATV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",BTV
+http://103.106.2.149:13456/btv.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",BTV World
+http://103.106.2.149:13456/btv_world.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DipuIPTV-BD",Sangsad Bangladesh
+http://103.106.2.149:13456/sangsad.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DipuIPTV-BD",BTV Chattagram
+http://103.106.2.149:13456/btv_ctg.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",Deepto TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",Channel 9
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",Ekattor
+https://live.sonyplex.com/sonyplex/Ekattor-TV.stream/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",Nagorik
+http://goiptv.co:8080/AV.tar.canada/QF1XP4AR4Y/27118
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",Asian TV
+http://cdn-sgp.oc.bd-cast.com/jago/0/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",Desh Tv
+http://jupiter.bdcabletv.com/DeshTV/video.m3u8
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",Banglavision
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",ATN NEWS
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",ATN Bangla
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",Gazi TV
+http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",Bangla TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",Ananda TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",Bijoy TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV-BD",Gaan Bangla
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
+EXTINF:0 tvg-logo="" group-title="DipuIPTV- Indian Bangla",Star Jalsha
+http://103.109.56.116/live/skyfeed1003/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="DipuIPTV- Indian Bangla",Zee Bangla
+http://103.109.56.116/live/skyfeed1004/index.m3u8
