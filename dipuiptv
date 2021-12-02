@@ -1,2 +1,97 @@
-# dipuiptv
-my m3u Playlist for all .
+#EXTM3U
+#EXTINF:-1 group-title="UKIPPTV SERVER", Zee Bolywood
+http://ukipptv.ddns.net/701.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", ZEE ANMAL CINEMA
+http://ukipptv.ddns.net/722.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", ZEE Action
+http://ukipptv.ddns.net/728.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", UTV HD
+http://ukipptv.ddns.net/723.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", COLORS CINEPLEX HD
+http://ukipptv.ddns.net/735.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", STAR PLUS HD HD
+http://ukipptv.ddns.net/607.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", ZEE TV HD
+http://ukipptv.ddns.net/606.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", 9XM
+http://ukipptv.ddns.net/522.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", B4U MUSIC
+http://ukipptv.ddns.net/733.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", STAR SPORTS 1 HD
+http://ukipptv.ddns.net/710.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", STAR SPORTS 1 HD HINDI
+http://ukipptv.ddns.net/724.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", STAR SPORTS 2 HD
+http://ukipptv.ddns.net/715.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", STAR SPORTS 3 
+http://ukipptv.ddns.net/732.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", STAR SPORTS SELECT 1 HD
+http://ukipptv.ddns.net/737.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", SONY SIX HD
+http://ukipptv.ddns.net/740.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", SONY TEN 1 HD
+http://ukipptv.ddns.net/726.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", SONY TEN 1 HD
+http://ukipptv.ddns.net/711.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", SONY TEN 2 HD
+http://ukipptv.ddns.net/712.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER",VSONY TEN 3 HD
+http://ukipptv.ddns.net/713.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", ASTRO CRICKET HD
+http://ukipptv.ddns.net/720.stream/index.m3u8
+ #EXTINF:-1 group-title="UKIPPTV SERVER", GEO SUPER
+http://ukipptv.ddns.net/725.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", WILLOW hd
+http://ukipptv.ddns.net/731.stream/index.m3u8
+#EXTINF:-1 group-title="Nafis TV", ARY Q TV
+http://stream.arylive.com:80/aryqtv/myStream/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", A-PLUS
+http://ukipptv.ddns.net/623.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER"GEO KAHINI
+http://ukipptv.ddns.net/603.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER",HUM TV HD
+http://ukipptv.ddns.net/611.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", ARY NEWS
+http://ukipptv.ddns.net/615.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", GEO NEWS
+http://ukipptv.ddns.net/616.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", GE TEZZ
+http://ukipptv.ddns.net/617.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", DUNEYA NEWS
+http://ukipptv.ddns.net/619.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", SAAMA NEWS
+http://ukipptv.ddns.net/641.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", EXPRESS NEWS
+http://ukipptv.ddns.net/642.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", EXPRESS ENTERTEMINET
+http://ukipptv.ddns.net/643.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", AAJ NEWS
+http://ukipptv.ddns.net/645.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", PTV NEWS
+http://ukipptv.ddns.net/647.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", PTV SPORTS
+http://ukipptv.ddns.net/649.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", HUM TV
+http://ukipptv.ddns.net/691.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", HUM SITHARAY
+http://ukipptv.ddns.net/692.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", MAKKA TV
+http://ukipptv.ddns.net/694.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", TIMES URDU
+http://ukipptv.ddns.net/511.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", ITV
+http://ukipptv.ddns.net/512.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", DISNEY XD
+http://ukipptv.ddns.net/10.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", USA
+http://ukipptv.ddns.net/11.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", DISNEY TV
+http://ukipptv.ddns.net/14.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", CH-1
+http://ukipptv.ddns.net/16.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", CH-2
+http://ukipptv.ddns.net/15.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", CC
+http://ukipptv.ddns.net/22.stream/index.m3u8
+#EXTINF:-1 group-title="UKIPPTV SERVER", CNN
+http://ukipptv.ddns.net/20.stream/index.m3u8
